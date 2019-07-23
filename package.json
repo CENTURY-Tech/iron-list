@@ -1,0 +1,11 @@
+{
+  "name": "iron-list",
+  "version": "1.4.7",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1",
+    "iron-a11y-keys-behavior": "github:CENTURY-Tech/iron-a11y-keys-behavior#v1.1.10",
+    "iron-resizable-behavior": "github:CENTURY-Tech/iron-resizable-behavior#v1.0.7",
+    "iron-scroll-target-behavior": "github:CENTURY-Tech/iron-scroll-target-behavior#v1.1.2"
+  },
+  "private": true
+}
